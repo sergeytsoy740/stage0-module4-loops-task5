@@ -11,7 +11,7 @@ public class Triangle {
             } else {
                 for (int j = 1; j <= i; j++) {
                     if (j == 1 || j == i) System.out.print(eight);
-                    else System.out.print(" ");
+                    else System.out.print(eight);
                 }
             }
             System.out.println();
